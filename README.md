@@ -47,7 +47,3 @@ The design emphasized layout using **Flexbox**, consistent spacing, and basic st
 - Make it responsive for mobile devices (in a future lesson!)
 - Refactor CSS with reusable classes
 - Add interactive elements (like hover effects)
-
----
-
-Thanks for checking out my project! 🚀
