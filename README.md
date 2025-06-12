@@ -1,4 +1,4 @@
-# 🧱 Flexbox Landing Page Project
+# 🧱 Flexbox Landing Page Project (The Odin Project)
 
 This is my solution to the **Flexbox Project Assignment** from [The Odin Project](https://www.theodinproject.com/). The goal was to build a landing page using **HTML** and **CSS Flexbox** that closely resembles a provided design.
 
